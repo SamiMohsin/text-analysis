@@ -10,11 +10,15 @@ STAGE ONE GATHERING:
   * Sql data
   * dataframe
   * csv and excel files
+  
+  
 STAGE TWO :
   * Analysis .
   
+  
 STAGE THREE :  
   * CALSSIFICATION .
+  
 STAGE FOUR :
  * APPLIED IN MACHINE LEARNING
 
