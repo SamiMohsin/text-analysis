@@ -3,20 +3,20 @@ The following project is aim to introduce reader in gathering information from
 different sources and different types of data in combination of tools and real code in realtime
 with python.
 
-ROAD :
+ROAD MAP and Aim of this project:
+STAGE ONE GATHERING:
   * Scrap web ( READ HTML tags) .
   * raw files
   * Sql data
   * dataframe
   * csv and excel files
-
-
-
-Aim of this project:
-* scraping .
-* Analysis posts .
-* Simple classification of posts (not machine learning) .
-* Categories can be anything just for learning .
+STAGE TWO :
+  * Analysis .
+  
+STAGE THREE :  
+  * CALSSIFICATION .
+STAGE FOUR :
+ * APPLIED IN MACHINE LEARNING
 
 
 original post can be found here :
