@@ -3,11 +3,12 @@ The following project is aim to introduce reader in gathering information from
 different sources and different types of data in combination of tools and real code in realtime
 with python.
 
-*Scrap web.
-*raw files
-*Sql data
-*dataframe
-*csv and excel files
+ROAD :
+  * Scrap web ( READ HTML tags) .
+  * raw files
+  * Sql data
+  * dataframe
+  * csv and excel files
 
 
 
