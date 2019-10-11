@@ -1,5 +1,14 @@
-# text-analysis:
-Scrap around with bs4 and gathering posts from your favorite sites.
+# Basic Text Analysis:
+The following project is aim to introduce reader in gathering information from
+different sources and different types of data in combination of tools and real code in realtime
+with python.
+
+*Scrap web.
+*raw files
+*Sql data
+*dataframe
+*csv and excel files
+
 
 
 Aim of this project:
