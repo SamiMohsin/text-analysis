@@ -4,6 +4,7 @@ different sources and different types of data in combination of tools and real c
 with python.
 
 ROAD MAP and Aim of this project:
+
 STAGE ONE GATHERING:
   * Scrap web ( READ HTML tags) .
   * raw files
