@@ -1,7 +1,11 @@
+# https://github.com/SamiMohsin/text-analysis/blob/master/twitter_regx.py
+
+
+
 '''
-This script for demostration not aim 
-in real world all accounts taken are just found in web
-for use of regx
+This script for demonstration not aim 
+to be in real world all accounts taken are just found in web
+for use of regx and for education
 '''
 # original tweet https://twitter.com/_FALCON_01/status/1183960656019644416
 scrap = '''
